@@ -1,2 +1,28 @@
-# 8b6bceb6-interior-design-staging-stan
-The interior design tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Interior Design &amp; Staging Standard Operating Procedures Library — fully configured and ready to use - Pre-b
+# Interior Design & Staging Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AcN53aLf6Qg88fQ8cZM0j)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AcN53aLf6Qg88fQ8cZM0j)
+
